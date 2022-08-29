@@ -1,0 +1,175 @@
+TABLA CALÓRICA FRUTA	kcal por cada 100 g
+Manzana	52 kcal
+Piña	55 kcal
+Albaricoque	43 kcal
+Pera	55 kcal
+Plátano	88 kcal
+Arándanos	35 kcal
+Naranja sanguina	45 kcal
+Moras	43 kcal
+Arándanos rojos	46 kcal
+Fresas	32 kcal
+Higo	107 kcal
+Pomelo	50 kcal
+Granada	74 kcal
+Escaramujo	162 kcal
+Melón	54 kcal
+Frambuesas	36 kcal
+Jengibre	80 kcal
+Kiwi	51 kcal
+Cerezas	50 kcal
+Lichi	66 kcal
+Mandarina	50 kcal
+Mango	62 kcal
+Maracuyá	97 kcal
+Ciruela	47 kcal
+Melocotón	41 kcal
+Membrillo	38 kcal
+Ruibarbo	21 kcal
+Sandía	30 kcal
+Uvas	70 kcal
+Limón	35 kcal
+TABLA CALÓRICA VERDURAS	kcal pro 100 g
+Berenjena	24 kcal
+Alcachofa	47 kcal
+Aguacate	160 kcal
+Coliflor	25 kcal
+Brócoli	35 kcal
+Judías	25 kcal
+Berro de agua	19 kcal
+Champiñones	22 kcal
+Col china	13 kcal
+Guindilla	40 kcal
+Guisantes	82 kcal
+Lechuga iceberg	14 kcal
+Hinojo	31 kcal
+Pepino	15 kcal
+Col rizada	49 kcal
+Zanahoria	36 kcal
+Patata	86 kcal
+Colinabo	27 kcal
+Calabaza	19 kcal
+Puerro	31 kcal
+Maíz	108 kcal
+Acelga	19 kcal
+Pimiento	21 kcal
+Rabanitos	16 kcal
+Remolacha	43 kcal
+Col lombarda	29 kcal
+Col de bruselas	43 kcal
+Rúcula	25 kcal
+Espárrago	18 kcal
+Espinacas	23 kcal
+Boniato	86 kcal
+Calabacín	20 kcal
+Cebolla	40 kcal
+ 
+
+TABLA CALÓRICA CARNE	 kcal pro 100 g
+Salchicha	375 kcal
+Pato	375 kcal
+Ciervo	375 kcal
+Pechuga de pollo	75 kcal
+Ternera	94 kcal
+Cordero	178 kcal
+Pechuga de pavo	111 kcal
+Salami	507 kcal
+Jamón	335 kcal
+Bacon	645 kcal
+Filete de vacuno	115 kcal
+Carne picada de vacuno	212 kcal
+Filete de nalga	162 kcal
+Filete de cerdo	171 kcal
+Carne grasa de cerdo	311 kcal
+Carne magra de cerdo	143 kcal
+Escalope de cerdo	105 kcal
+Salchicha de Frankfurt	375 kcal
+ 
+
+TABLA CALÓRICA PESCADO	 kcal pro 100 g
+Trucha	50 kcal
+Trucha	50 kcal
+Lucio	50 kcal
+Arenque	146 kcal
+Salmón	137 kcal
+Filete de perca	111 kcal
+Abadejo	83 kcal
+Atún	144 kcal
+ 
+
+TABLA CALÓRICA PRODUCTOS LÁCTEOS Y HUEVO	 kcal pro 100 g
+Suero de mantequilla	38 kcal
+Crème fraîche	292 kcal
+Queso cheddar	403 kcal
+Queso emmental	382 kcal
+Queso edam	251 kcal
+Huevo	155 kcal
+Queso cottage	104 kcal
+Leche de coco	136 kcal
+Leche	47 kcal
+Queso quark desnatado	67 kcal
+Yogur natural	62 kcal
+Nata	204 kcal
+Crema agria	162 kcal
+Nata agria	115 kcal
+Smetana	240 kcal
+ 
+
+TABLA CALÓRICA PASTA	 kcal pro 100 g
+Fideos cocidos	142 kcal
+Pasta de espelta, cocida	128 kcal
+Farfalle cocidas	147 kcal
+Tallarines cocidos	159 kcal
+Fideos transparentes cocidos	124 kcal
+Espaguetis integrales cocidos	152 kcal
+ 
+
+TABLA CALÓRICA PAN Y BOLLERÍA	 kcal pro 100 g
+Baguette	248 kcal
+Bretzel	217 kcal
+Chapata	333 kcal
+Croissant	393 kcal
+Naan	290 kcal
+Pan de pita	290 kcal
+Pumpernickel	181 kcal
+Pan de molde, integral	244 kcal
+Tortita de wrap integral	170 kcal
+Rollo de canela	384 kcal
+ 
+
+TABLA CALÓRICA ALCOHOL	 kcal pro 100 ml
+Cerveza	43 kcal
+Gin tonic	377 kcal
+Vodka	215 kcal
+Vino	83 kcal
+ 
+
+TABLA CALÓRICA COMIDA RÁPIDA	 kcal pro 100 g
+Cheeseburger	250 kcal
+Patatas fritas	539 kcal
+Salchicha para perrito caliente	288 kcal
+Kebab	215 kcal
+Galletas con chocolate	512 kcal
+Kebab vegetariano	107 kcal
+Pizza margarita	199 kcal
+Pizza salami	245 kcal
+Patatas fritas	291 kcal
+Hamburguesa	291 kcal
+Nutella	547 kcal
+TABLA CALÓRICA PARA PERDER PESO	 kcal pro 100 g
+Lechuga	14 kcal
+Pepino	15 kcal
+Espárragos	18 kcal
+Calabacín	20 kcal
+Champiñones	22 kcal
+Espinacas	23 kcal
+Coliflor	25 kcal
+Sandía	30 kcal
+Fresas	32 kcal
+Brócoli	35 kcal
+Manzana	52 kcal
+Queso quark	67 kcal
+Patatas	86 kcal
+Lentejas (cocidas)	97 kcal
+Garbanzos	137 kcal
+Salmón	137 kcal
